@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 18fcd2d1306c56c4aac30c9badc73a2b
+timeCreated: 1522062720
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FashionFont052,by www.6763.net
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
